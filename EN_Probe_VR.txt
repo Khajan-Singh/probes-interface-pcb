@@ -1,0 +1,21 @@
+Board Information Report
+Filename     : C:\Users\beeda\OneDrive\SweetVinyl\EN_Probe_PS\EN_Probe_VR.PcbDoc
+Date         : 11/14/2023
+Time         : 1:50:02 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 1375milsx901.575mils
+    Components on board, 21
+count : 2
+
+Plated Hole Size, Pads, Vias
+    0mils, 36, 0
+    28mils, 0, 12
+    31.496mils, 12, 0
+    43.307mils, 5, 0
+count : 4
+
+Net Via Size, Count
+    50mils, 13
+count : 1
