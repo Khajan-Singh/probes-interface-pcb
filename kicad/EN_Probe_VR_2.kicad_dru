@@ -1,0 +1,8 @@
+(version 1)
+
+# 0.5 mm-pitch ZIF fan-out: J5 (Molex 52745-0897) has 0.3 x 0.8 mm pads on 0.5 mm pitch.
+# Escape tracks and the pads themselves need 0.15 mm clearance locally; the rest of the
+# board keeps the Default netclass 0.3048 mm. Scoped to items touching J5's courtyard.
+(rule "ZIF_fanout_J5"
+	(condition "A.intersectsCourtyard('J5') || B.intersectsCourtyard('J5')")
+	(constraint clearance (min 0.15mm)))

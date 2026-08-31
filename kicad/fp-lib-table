@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "EN_Probe_VR_2")(type "KiCad")(uri "${KIPRJMOD}/EN_Probe_VR_2.pretty")(options "")(descr "Footprints extracted from the Altium EN_Probe_VR_2 conversion"))
+)

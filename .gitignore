@@ -1,2 +1,12 @@
 _[archive]
 __Previews
+kicad/analysis/
+kicad/.history/
+kicad/DRC.rpt
+kicad/report.txt
+kicad/*.kicad_prl
+kicad/~*.lck
+analysis/
+.claude/
+datasheets/extracted/
+documentation/
