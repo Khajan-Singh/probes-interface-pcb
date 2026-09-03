@@ -1947,7 +1947,7 @@
 		)
 		(uuid "4266cbfd-e766-4983-be5c-3a0b72d66112")
 	)
-	(text "Default: R3V3 fitted, R2 DNP (VCC = 3.3 V). R2 (+5V) requires 5V-tolerant host I2C."
+	(text "Populate ONE per build; mark the other DNI on the BOM. R2 (+5V) requires 5V-tolerant host I2C."
 		(exclude_from_sim no)
 		(at 190.5 155.702 0)
 		(effects
@@ -6196,7 +6196,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "a63a5592-1e9a-4cf4-b2ac-2845a0161630")
 		(property "Reference" "R2"
 			(at 160.02 149.86 90)
